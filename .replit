@@ -1,0 +1,2 @@
+run = "python finder.py --workers 16 --proxy-file proxies.txt -u WEBHOOKHERE & python main.py"
+entrypoint = "main.sh"
